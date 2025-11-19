@@ -1,8 +1,10 @@
+<p align="center" width="1584px" h="396px">
+  <img src="https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="MERN Stack Developer Banner" width="1584px" h="396px" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shifat Ahmed</h1>
 
-<p align="center">
-  <img src="https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="MERN Stack Developer Banner" width="700px" />
-</p>
+
 
 <h3 align="center">A passionate MERN stack developer based in Dhaka, Bangladesh. Currently a fresher looking to get hired.</h3>
 
@@ -13,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/sifat202" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://dev.to/sifat202" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-<a href="https://instagram.com/sifat_the_introvert" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://dev.to/sifat202" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sifat202" height="30" width="40" /></a>
+<a href="https://instagram.com/sifat_the_introvert" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifat_the_introvert" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,7 +42,8 @@
 <h2 align="center">⭐ My Top Project ⭐</h2>
 <p align="center">
   <a href="https://github.com/sifat202/assignment-10.git" target="_blank">
-    <img src="https://via.placeholder.com/600x250/007bff/ffffff?text=Assignment+10+Project+Image" alt="Assignment 10 Project Thumbnail" width="600px" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+    
   </a>
 </p>
 <p align="center">
