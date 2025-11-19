@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shifat Ahmed</h1>
 
 <p align="center">
-  <img height="394" src="https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="MERN Stack Developer Banner" width="700px" />
+  <img height="394" src="https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png](https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="MERN Stack Developer Banner" width="700px" />
 </p>
 
 <h3 align="center">A passionate MERN stack developer based in Dhaka, Bangladesh. Currently a fresher looking to get hired.</h3>
