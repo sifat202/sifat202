@@ -1,4 +1,4 @@
-![alert image](https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+![alert image]([https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png](https://pellgraphics.com/wp-content/uploads/revslider/portfolio_slider/1200x600.gif))
 
 
 
