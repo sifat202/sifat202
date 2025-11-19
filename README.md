@@ -40,7 +40,8 @@
 <h2 align="center">⭐ My Top Project ⭐</h2>
 <p align="center">
   <a href="https://github.com/sifat202/assignment-10.git" target="_blank">
-    <img src="https://via.placeholder.com/600x250/007bff/ffffff?text=Assignment+10+Project+Image" alt="Assignment 10 Project Thumbnail" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+    
   </a>
 </p>
 <p align="center">
