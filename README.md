@@ -1,7 +1,24 @@
 <p align="center" width="1584px" h="396px">
-<img src="https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" height="394px" width="full"/>
+<img src="https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" height="full" width="full"/>
+
+
+
+
+
+
+
+
  
 </p>
+
+
+
+
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Shifat Ahmed</h1>
 
