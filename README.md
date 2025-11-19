@@ -1,15 +1,4 @@
-<p align="center" width="1584px" h="396px">
-<img src="https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" height="full" width="full"/>
-
-
-
-
-
-
-
-
- 
-</p>
+![alert image](https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 
 
