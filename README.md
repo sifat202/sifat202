@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shifat Ahmed</h1>
 
-<p align="center">
+<p align="center" width="1584px" h="396px">
   <img src="https://i.ibb.co.com/5zg1PGK/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="MERN Stack Developer Banner" width="1584px" h="396px" />
 </p>
 
