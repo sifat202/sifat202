@@ -26,7 +26,6 @@
 <a href="https://instagram.com/sifat_the_introvert" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifat_the_introvert" height="30" width="40" /></a>
 </p>
 <p align="center">
-  <h3 align="center">Languages and Tools:</h3>
   <a align="center" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,nextjs,mongodb,expressjs,react,nodejs,js,tailwind,redux,ts," />
   </a>
