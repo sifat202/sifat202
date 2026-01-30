@@ -25,9 +25,9 @@
 <a href="https://dev.to/sifat202" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sifat202" height="30" width="40" /></a>
 <a href="https://instagram.com/sifat_the_introvert" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifat_the_introvert" height="30" width="40" /></a>
 </p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,mongodb,react,expressjs,nodejs,nextjs)](https://skillicons.dev) -->
 <!-- <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
