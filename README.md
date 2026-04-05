@@ -46,7 +46,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p> --> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifat202&show_icons=true&locale=en" alt="sifat202" /></p>
 
 
 ---
